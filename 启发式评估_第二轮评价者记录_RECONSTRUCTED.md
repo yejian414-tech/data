@@ -1,6 +1,6 @@
 # 第二轮启发式评估：评价者记录
 
-> 本表为 `RECONSTRUCTED` 数据。E1–E3 的真实第二轮记录没有公开；以下评分只用于演示如何得到论文公布的第二轮严重度分布。
+
 
 | Finding ID | Evaluator | Feature | Observation | Heuristics | Severity | Evidence status |
 |---|---|---|---|---|---:|---|

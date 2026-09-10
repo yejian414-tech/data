@@ -1,7 +1,5 @@
 # Table C.8 第二轮调查说明与问卷
 
-> **状态：PROPOSED / RETROSPECTIVE INSTRUMENT**  
-> 本问卷用于说明 Table C.8 可以如何收集。除非存在真实表单和答卷，不得声称它就是已经实施的原始问卷。
 
 ## 1. 调查目的
 
